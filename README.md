@@ -5,12 +5,6 @@ Copy-paste this directly into your project root as `README.md`:
 ```markdown
 # AI Sales Agent – 100% Local, Private & Offline
 
-![Python](https://img.shields.io/badge/python-3.11%2B-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115-brightgreen)
-![Ollama](https://img.shields.io/badge/Ollama-Llama3.1%208B-orange)
-![Whisper](https://img.shields.io/badge/Whisper-Local_CPU-blueviolet)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 A **fully offline**, high-performance AI Sales Assistant powered by **Ollama** and **local OpenAI Whisper**.  
 No OpenAI API · No cloud · No data leaks · Zero recurring cost.
 
