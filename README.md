@@ -112,3 +112,5 @@ Star this repo if you like it!
 Contributions · Issues · Feature requests welcome
 
 Made with Turjoy❤️
+<img width="1298" height="945" alt="image" src="https://github.com/user-attachments/assets/7ba3e288-2cd4-470e-a6a3-9276580d8c85" />
+
