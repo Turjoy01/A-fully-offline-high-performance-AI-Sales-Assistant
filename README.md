@@ -113,4 +113,5 @@ Contributions · Issues · Feature requests welcome
 
 Made with Turjoy❤️
 <img width="1298" height="945" alt="image" src="https://github.com/user-attachments/assets/7ba3e288-2cd4-470e-a6a3-9276580d8c85" />
+<img width="1066" height="938" alt="image" src="https://github.com/user-attachments/assets/ac5ea6c9-4af2-42b0-bb86-43ed54f0e141" />
 
